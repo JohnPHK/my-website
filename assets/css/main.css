@@ -3488,6 +3488,11 @@ sub,sup{
 	margin:0 auto;
 	max-width:960px
 }
+#skills{
+    width:90%;
+    margin:0 auto;
+    max-width:960px;
+}
 @media only screen and (min-width:550px){
 	#about{
 		width:80%
@@ -3605,5 +3610,8 @@ sub,sup{
 	text-decoration:none;
 	margin:0;
 	color:#fff
+}
+.about-content{
+    display:flex;
 }
  

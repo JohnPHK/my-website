@@ -1,12 +1,12 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Hokyun Park 
+description: This is my personal website. 
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Hokyun Park 
-user_description: Recent graduate in computer science from University of Toronto St. George.
+user_description: Recent graduate in computer science from University of Toronto St. George. I am interested in web development, computer network, and operating system. I hope to work in the field of web or cloud and build a software utilized in the field. Moreover, I love sports and exercising! I love to play soccer and recently started Brazilian Jiu Jitsu and currently loving it!!
 user_title: Looking for a job as a Software Developer
 email: park.hokyun@gmail.com 
 github_username: JohnPHK 
