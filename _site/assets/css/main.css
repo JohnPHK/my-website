@@ -3611,7 +3611,7 @@ sub,sup{
     margin:0;
     color:#fff
 }
-.about-content{
-    display:flex;
+
+#my_picture{
+    max-width:400px;
 }
- 
