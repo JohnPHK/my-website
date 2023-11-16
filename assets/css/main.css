@@ -3564,6 +3564,9 @@ sub,sup{
     .contents-right{
         margin-top:-5%
     }
+    .contents-left{
+        margin-top:-5%
+    }
     .contents-right,.images-right{
         float:right;
         width:48%;
