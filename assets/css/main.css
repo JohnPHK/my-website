@@ -3567,7 +3567,6 @@ sub,sup{
     .contents-right,.images-right{
         float:right;
         width:48%;
-        height:30%
     }
     .images-right img{
         float:right
@@ -3575,7 +3574,6 @@ sub,sup{
     .images-left{
         float:left;
         width:48%;
-        height:30%
     }
     .images-left img{
         float:left
