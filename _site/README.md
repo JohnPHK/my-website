@@ -2,12 +2,7 @@
 
 Ensure all the dependencies are installed in your local machine (ex. ruby)
 
-Make sure below is available in 'Gemfile'
-```
-gem "jekyll"
-```
-
-Then run the following command:
+Run the following command to ensure all the necessary dependencies are included in Gemfile.lock:
 ```
 bundle install
 ```
