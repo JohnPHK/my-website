@@ -91,6 +91,8 @@ PLATFORMS
 DEPENDENCIES
   faraday-retry
   jekyll
+  jekyll-sass-converter
+  webrick
 
 BUNDLED WITH
    2.6.2
