@@ -1,12 +1,11 @@
 ## MY-WEBSITE
 
-Ensure all the dependencies are installed in your local machine (ex. ruby)
+Ensure all the necessary dependencies are installed to run the website in the hosting environment.
 
-Run the following command to ensure all the necessary dependencies are included in Gemfile.lock:
+Run the following command to install required dependencies referenced in Gemfile.lock:
 ```
 bundle install
 ```
-Above installs all the gem dependencies.
 
 Run the following command to run the server:
 ```
