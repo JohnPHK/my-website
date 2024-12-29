@@ -7,6 +7,8 @@ description: This is my personal website.
 # User settings
 username: John Park 
 user_description: Recent graduate in Computer Science from University of Toronto St. George. I am interested in web development, computer network, and operating system. I hope to work in the realm of web/cloud and build a software being utilized in those field. Besides, I like to analyze data in my side as I've taken Machine Learning and math courses from U of T.
+baseurl: "my-website"
+url: ""
 user_title: Looking for a job as a Software Developer
 email: park.hokyun@gmail.com 
 github_username: JohnPHK 
